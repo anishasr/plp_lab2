@@ -1,1 +1,3 @@
-# plp_lab2
+# Programming Language Project - Lab 2
+
+## Naming Conventions in C
