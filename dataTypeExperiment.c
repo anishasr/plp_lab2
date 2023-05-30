@@ -1,4 +1,5 @@
  #include <stdio.h>
+ // Reference - https://www.w3schools.com/c/c_booleans.php
  #include <stdbool.h>
 
 int main()
@@ -8,6 +9,7 @@ int main()
     float b = 12345.6789;
 
     // no built-in String type, array of chars
+    // Reference - https://www.w3schools.com/c/c_strings.php
     char string123[] = "onetwothree";
 
     // boolean not a built-in type, imported
@@ -29,4 +31,7 @@ int main()
     // print numStr to verify conversion
     printf("\nNow a string: %s", numStr);
 
+    /* Sources
+    https://intellipaat.com/blog/tutorial/c-tutorial/c-data-types/
+    */
 }
