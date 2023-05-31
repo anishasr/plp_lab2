@@ -21,8 +21,8 @@
  atoi("5) + 6
  ```
 
-5) Describe the limitations (or lack thereof) of your programming language as they relate to the coding portion of the assignment (adding ints and floats, storing different types in lists, converting between data types). Are there other restrictions or pitfalls that the documentation mentions that you need to be aware of?
+**5) Describe the limitations (or lack thereof) of your programming language as they relate to the coding portion of the assignment (adding ints and floats, storing different types in lists, converting between data types). Are there other restrictions or pitfalls that the documentation mentions that you need to be aware of?**
 <br> The exercises in the coding portion showed that the implicit conversion capabilities are helpful -- ints and floats could be added without having to explicitly convert either value. However, some big adjustments for me are not having a built-in String class (and all the very helpful Python String methods...). I'll definitely have to practice working with character arrays. Other learnings that stood out are 1) There is not support/functionality for creating arrays with elements of different data types and 2) There is no built-in dictionary type. But, there were several user tutorials on how to create a similar structure! 
 
-6) Are there built-in complex data types that are commonly used in your language? (hint: they’d probably appear fairly early in the documentation if so) 
+**6) Are there built-in complex data types that are commonly used in your language?**
 <br> Answer
