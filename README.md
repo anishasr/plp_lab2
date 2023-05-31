@@ -16,7 +16,10 @@
 <br>From the textbook **The C Programming Language** by Kernighan and Ritchie, "C is not a strongly-typed language, but as it has evolved, its type-checking has been strengthened."
 
 4) If you put this line (or something similar) in a program and try to print x, what does it do? If it doesn't compile, why? Is there something you can do to make it compile? x = "5" + 6
-<br> Answer
+<br> It doesn't compile. It can compile if the string "5" is converted to type int. GeeksforGeeks recommends using the 'atoi()' function.
+ ```c
+ atoi("5) + 6
+ ```
 
 5) Describe the limitations (or lack thereof) of your programming language as they relate to the coding portion of the assignment (adding ints and floats, storing different types in lists, converting between data types). Are there other restrictions or pitfalls that the documentation mentions that you need to be aware of?
 <br> Answer
