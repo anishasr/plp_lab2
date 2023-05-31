@@ -25,4 +25,4 @@
 <br> The exercises in the coding portion showed that the implicit conversion capabilities are helpful -- ints and floats could be added without having to explicitly convert either value. However, some big adjustments for me are not having a built-in String class (and all the very helpful Python String methods...). I'll definitely have to practice working with character arrays. Other learnings that stood out are 1) There is not support/functionality for creating arrays with elements of different data types and 2) There is no built-in dictionary type. But, there were several user tutorials on how to create a similar structure! 
 
 **6) Are there built-in complex data types that are commonly used in your language?**
-<br> C has the data types 'union', 'struct', 'pointers' and arrays. (Source - https://hackr.io/blog/data-types-in-c)
+<br> C has complex data types 'pointers' and arrays (of other data types), and the data structures 'union', 'struct'. (Source - https://hackr.io/blog/data-types-in-c)
